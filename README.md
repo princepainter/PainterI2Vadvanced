@@ -2,6 +2,9 @@
 
 本节点是对PainterI2V的升级优化版本，它是一个增强的 Wan2.2 图生视频节点，专为双采样器工作流优化，提供动态增强和智能颜色漂移校正功能。
 
+![wan2-2_00003](https://github.com/user-attachments/assets/e3c26b2b-3e40-41bf-bffe-4825bcacc995)
+
+
 ## 功能特性
 
 - **双输出设计**: 同时输出高动态(high)和低动态(low)两组条件，完美适配双采样器架构

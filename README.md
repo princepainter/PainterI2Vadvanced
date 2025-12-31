@@ -1,8 +1,9 @@
 # PainterI2VAdvanced 本节点由抖音博主：绘画小子制作
 
-本节点是对PainterI2V的优化版本，它是一个增强的 Wan2.2 图生视频节点，专为双采样器工作流优化，提供动态增强和智能颜色漂移校正功能。
+本节点是对PainterI2V的优化版本，它是一个增强的 Wan2.2 图生视频节点，专为双采样器工作流优化，提供动态增强和智能颜色漂移校正功能。修复了PainterI2V画面不受控制的变换场景和偏灰偏绿问题，增强动态不变色。
 
-![wan2-2_00003](https://github.com/user-attachments/assets/e3c26b2b-3e40-41bf-bffe-4825bcacc995)
+![wan2-2_00004](https://github.com/user-attachments/assets/69caf9df-bf40-4c7c-8875-2c4d6a4a4812)
+
 
 
 ## 功能特性
